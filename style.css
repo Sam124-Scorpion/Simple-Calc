@@ -60,11 +60,3 @@ button:hover {
 #operator-btn:hover {
     background-color: rgb(132, 57, 57);
 }
-.footer{
-    display: flex;
-    position: relative;
-    top: 400px;
-    right: 300px;
-    font-size: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
